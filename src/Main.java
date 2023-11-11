@@ -9,6 +9,7 @@ public class Main {
         System.out.println("ctm github");
         System.out.println("A");
         System.out.println("david se la come");
+        System.out.println("Wanbadan");
 
         // Press Ctrl+F5 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
