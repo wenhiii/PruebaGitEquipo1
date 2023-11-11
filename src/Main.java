@@ -2,21 +2,15 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
+        // Press Alt+Intro with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Vamos a ver los cambios!");
-        System.out.println("Joderrrr macho ostia viva españa viva el rey");
-        System.out.println("ctm github");
-        System.out.println("A");
-        System.out.println("david se la come");
-        System.out.println("Wanbadan");
-        System.out.println("Wandaban david kun");
-        System.out.println("8==B");
-        // Press Ctrl+F5 or click the green arrow button in the gutter to run the code.
+        System.out.printf("Hello and welcome!");
+
+        // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
-            // Press Alt+F5 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing F9.
+            // Press Mayús+F9 to start debugging your code. We have set one breakpoint
+            // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
     }
