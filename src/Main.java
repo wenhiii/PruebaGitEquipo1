@@ -10,7 +10,7 @@ public class Main {
         System.out.println("A");
         System.out.println("david se la come");
         System.out.println("Wanbadan");
-
+        System.out.println("Wandaban david kun");
         // Press Ctrl+F5 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
